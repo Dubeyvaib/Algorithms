@@ -1,1 +1,1 @@
-Important algorithms need to crack interviews as a part of DSA preparation.
+Important algorithms for cracking interviews as a part of DSA preparation.
